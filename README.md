@@ -1,2 +1,3 @@
 # edu-java
-Java study repo
+Basics 
+Methods

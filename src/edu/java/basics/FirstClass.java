@@ -1,4 +1,4 @@
-package src.edu.java;
+package src.edu.java.basics;
 
 public class FirstClass {
     public static void main(String[] args) {

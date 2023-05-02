@@ -12,7 +12,7 @@ public class FirstClass {
         float five = 3.14159f;
         double six = 1.7976931348623157;
         boolean seven;
-        char eight = 'a';
+        char eight = 'M';
 
         int addition = one + two;
         System.out.println("The result of the addition is : " + addition);
@@ -56,6 +56,7 @@ public class FirstClass {
            increment = tmp;
         }
         System.out.println("------------------------");
+
         tmp = 4;
         if (tmp < 0 || tmp > 0) {
             if (tmp > 0) {
@@ -68,6 +69,17 @@ public class FirstClass {
         else {
             System.out.println("This number is 0");
         }
+        System.out.println("------------------------");
 
+        if (eight == 'M' || eight == 'F') {
+            if (eight == 'M') {
+                System.out.println("Gender: Male");
+            } else if (eight == 'F') {
+                System.out.println("Gender: Female");
+            }
+        }
+        else {
+            System.out.println("Error invalid gender");
+        }
     }
 }

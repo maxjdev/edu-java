@@ -1,6 +1,10 @@
 package src.edu.java.exercises;
 import java.util.Scanner;
-
+/*
+Faça um programa que peça N números inteiros,
+calcule e mostre a quantidade de números pares
+e a quantidade de números impares.
+*/
 public class EvenOrOdd {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

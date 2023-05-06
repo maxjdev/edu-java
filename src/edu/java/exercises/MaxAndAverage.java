@@ -1,5 +1,10 @@
 package src.edu.java.exercises;
 import java.util.Scanner;
+/*
+Faça um programa que leia 5 números
+e informe o maior número
+e a média desses números.
+*/
 public class MaxAndAverage {
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);

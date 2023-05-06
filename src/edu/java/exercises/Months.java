@@ -1,6 +1,9 @@
 package src.edu.java.exercises;
 import java.util.Scanner;
-
+/*
+Faça um programa que informe o mes correspondente ao numero
+ferias nos meses de janeiro e julho
+ */
 public class Months {
     static int month;
     public static void main(String[] args) {

@@ -1,6 +1,12 @@
 package src.edu.java.exercises;
 import java.util.Arrays;
 import java.util.Scanner;
+/*
+*Faça um Programa que leia um vetor de 6 caracteres,
+*e diga quantas consoantes foram lidas.
+*Imprima as consoantes.
+*/
+
 public class Consonants {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

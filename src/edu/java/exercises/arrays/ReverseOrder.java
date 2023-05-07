@@ -1,4 +1,4 @@
-package src.edu.java.exercises;
+package src.edu.java.exercises.arrays;
 /*
 * crie um vetor de 6 posições
 * e exiba na ordem reversa

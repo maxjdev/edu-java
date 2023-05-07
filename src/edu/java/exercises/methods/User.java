@@ -1,4 +1,4 @@
-package src.edu.java.method;
+package src.edu.java.exercises.methods;
 
 public class User {
     public static void main(String[] args) {

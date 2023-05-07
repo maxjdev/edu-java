@@ -1,4 +1,4 @@
-package src.edu.java.exercises;
+package src.edu.java.exercises.arrays;
 import java.util.Random;
 /*
 *Faça um Programa que leia 20 números inteiros (entre 0 e 100) armazene-os num vetor.

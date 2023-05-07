@@ -1,4 +1,4 @@
-package src.edu.java.method;
+package src.edu.java.exercises.methods;
 import java.util.Scanner;
 
 public class SmartTv {

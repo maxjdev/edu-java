@@ -1,4 +1,4 @@
-package src.edu.java.exercises;
+package src.edu.java.exercises.arrays;
 
 import java.util.Random;
 /*

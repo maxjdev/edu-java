@@ -1,4 +1,4 @@
-package src.edu.java.exercises;
+package src.edu.java.exercises.loops;
 import java.util.Scanner;
 /*
 Faça um programa que peça uma nota, entre zero e dez.

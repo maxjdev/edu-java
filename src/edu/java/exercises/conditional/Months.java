@@ -1,4 +1,4 @@
-package src.edu.java.exercises;
+package src.edu.java.exercises.conditional;
 import java.util.Scanner;
 /*
 Faça um programa que informe o mes correspondente ao numero

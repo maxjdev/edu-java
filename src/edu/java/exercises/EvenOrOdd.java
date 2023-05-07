@@ -28,6 +28,7 @@ public class EvenOrOdd {
             }
 
         } while (aux < amount);
+        input.close();
 
         System.out.println("Odd : " + amountOdd);
         System.out.println("Even : " + amountEven);

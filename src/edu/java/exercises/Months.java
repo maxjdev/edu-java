@@ -11,6 +11,7 @@ public class Months {
 
         System.out.println("Enter the month number: ");
         month = scanner.nextInt();
+        scanner.close();
 
         monthsIf();
     }
@@ -60,5 +61,4 @@ public class Months {
             System.out.println("Vacation");
             }
     }
-    
 }

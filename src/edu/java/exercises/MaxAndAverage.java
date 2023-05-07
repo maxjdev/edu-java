@@ -23,6 +23,7 @@ public class MaxAndAverage {
             }
 
        } while (aux < 5);
+       input.close();
         average = (average / 5);
 
         System.out.println("Bigger: " + bigger);

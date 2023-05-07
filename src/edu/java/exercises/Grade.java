@@ -18,5 +18,6 @@ public class Grade {
             System.out.println("Invalid note");
             grade = input.nextInt();
         }
+        input.close();
     }
 }

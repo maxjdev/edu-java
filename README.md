@@ -1,3 +1,1 @@
-# edu-java
-Basics 
-Methods
+# edu-java-exercices

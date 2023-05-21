@@ -1,4 +1,4 @@
-package src.edu.java.exercises.methods.mtd1;
+package src.edu.java.methods.mtd1;
 
 public class User {
     public static void main(String[] args) {

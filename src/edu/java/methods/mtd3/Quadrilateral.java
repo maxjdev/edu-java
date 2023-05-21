@@ -1,4 +1,4 @@
-package src.edu.java.exercises.methods.mtd3;
+package src.edu.java.methods.mtd3;
 
 public class Quadrilateral {
     public static void area (double side){

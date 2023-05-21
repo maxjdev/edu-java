@@ -1,4 +1,4 @@
-package src.edu.java.exercises.methods.mtd2;
+package src.edu.java.methods.mtd2;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.edu.java.exercises.methods.mtd2;
+package src.edu.java.methods.mtd2;
 
 public class Calculator {
     public static void add (double number1, double number2) {

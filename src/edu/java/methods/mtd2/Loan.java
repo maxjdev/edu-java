@@ -1,4 +1,4 @@
-package src.edu.java.exercises.methods.mtd2;
+package src.edu.java.methods.mtd2;
 
 public class Loan {
     public static int get2x () {return 2;}
